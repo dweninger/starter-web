@@ -22,3 +22,7 @@ be on any web server or evel local file
 system.
 
 ## How To Contribute
+
+###Copyright
+
+2014 Git.Training
